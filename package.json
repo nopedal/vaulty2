@@ -1,0 +1,24 @@
+{
+  "name": "vaulty2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "13.x",
+    "tailwindcss": "^3.2.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
